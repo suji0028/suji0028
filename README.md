@@ -1,20 +1,75 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sachin Gardhariya
-=========================================================================================================================================
+# **Android Developer Resume**
 
-Student and aspiring to learn everything
-----------------------------------------
+## **John Doe**
+**Email:** john.doe@example.com  
+**Phone:** +1 (123) 456-7890  
+**LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)  
+**GitHub:** [github.com/johndoe](https://github.com/johndoe)  
+**Portfolio:** [johndoe.dev](https://johndoe.dev)
 
-* 🌍  I'm based in Rajkot Gujarat
-* ✉  You can contact me at [sachingardhariya30146@gmail.com](mailto:sachingardhariya30146@gmail.com)
+---
 
-### Skills
+## **Summary**
+Passionate Android Developer with 3+ years of experience building high-performance mobile applications using Kotlin and Java. Proficient in Android SDK, Jetpack components, and modern development tools. Strong understanding of mobile UI/UX design principles and a knack for turning ideas into reliable apps.
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+## **Skills**
 
+- **Languages:** Kotlin, Java, XML, SQL
+- **Tools:** Android Studio, Git, Gradle, Firebase, Retrofit, Dagger/Hilt
+- **Frameworks/Libraries:** Jetpack Compose, Room, LiveData, ViewModel, Navigation Component
+- **Testing:** JUnit, Espresso
+- **Others:** REST APIs, MVC/MVVM Architecture, Play Store Deployment, Material Design
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/suji0028" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sach.in.5527" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sachin-gardhariya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/sachin_5527" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@sachingardhariya30146" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@sach.in.5527" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+## **Experience**
+
+### **Android Developer**  
+**XYZ Technologies** – New York, NY  
+*Jan 2022 – Present*  
+- Developed and maintained 10+ Android apps with over 500K combined downloads.  
+- Migrated legacy Java apps to Kotlin and improved performance by 30%.  
+- Integrated Firebase Analytics and Crashlytics for real-time monitoring.  
+- Implemented MVVM architecture and Jetpack libraries for scalable code.  
+
+### **Junior Android Developer**  
+**TechSoft Solutions** – Remote  
+*Jun 2020 – Dec 2021*  
+- Contributed to 5 client projects focusing on e-commerce and productivity tools.  
+- Wrote clean, reusable code and collaborated with designers on UI/UX.  
+- Worked with RESTful APIs and handled local data using Room DB.
+
+---
+
+## **Education**
+
+**Bachelor of Computer Applications (BCA)**  
+ABC University – 2017 to 2020
+
+---
+
+## **Projects**
+
+### **TaskMaster**  
+A task management app using MVVM, Room, and LiveData.  
+- Set reminders, categorize tasks, and sync with Google Calendar.
+
+### **WeatherCast**  
+A weather forecasting app using OpenWeather API and Jetpack Compose.  
+- Displays current weather and 7-day forecast with animations.
+
+---
+
+## **Certifications**
+- Android Developer Nanodegree – Udacity  
+- Kotlin for Android – JetBrains Academy
+
+---
+
+## **Languages**
+- English (Fluent)  
+- Spanish (Conversational)
+
+---
