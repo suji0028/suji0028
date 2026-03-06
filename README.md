@@ -174,7 +174,7 @@
 <div align="center">
 
 ### 💼 Portfolio Website
-**[My Animated Portfolio](https://github.com/suji0028/portfolio)**
+**[My Animated Portfolio]([https://github.com/suji0028/portfolio](https://portfolio-jet-beta-46.vercel.app/))**
 
 ```
 🎨 Modern Animated Portfolio with Neubrutalism Design
